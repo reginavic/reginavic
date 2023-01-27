@@ -1,5 +1,5 @@
 ## 👋 Hi! I'm Regina. 
-Front-developer.
+Frontend-developer.
 
 Welcome to my profile!
 
