@@ -3,6 +3,7 @@ Front-developer.
 Welcome to my profile!
 
 🌱 I’m currently learning Redux and NodeJS
+
 ---
 
 ## Languages and tools
