@@ -1,9 +1,12 @@
 ## 👋 Hi! I'm Regina. 
-Frontend-developer.
+
+Frontend-developer from Saint-Petersburg.
+
+:sparkles: I am passionate about web development and web design.
+
+🌱 I’m currently learning NodeJS
 
 Welcome to my profile!
-
-🌱 I’m currently learning Redux and NodeJS
 
 ---
 
