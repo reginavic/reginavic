@@ -1,6 +1,6 @@
 ## 👋 Hi! I'm Regina. 
 
-#### Frontend-developer from Saint-Petersburg.
+### Web developer from Saint-Petersburg.
 
 :sparkles: I am passionate about web development and web design.
 
