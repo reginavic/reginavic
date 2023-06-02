@@ -4,7 +4,6 @@
 
 :sparkles: I am passionate about web development and web design.
 
-🌱 I’m currently learning NodeJS.
 
 Welcome to my profile!
 
