@@ -6,7 +6,7 @@
 
 :sparkles: I love to create esthetic designed, functional and user-friendly websites 
 
-and adapting them to mobile devices. 
+  and adapting them to mobile devices. 
 
 Welcome to my profile!
 
