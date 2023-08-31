@@ -5,9 +5,10 @@
 :sparkles: I am passionate about web development and web design.
 
 :sparkles: I love to create esthetic designed, functional and user-friendly websites 
+
 and adapting them to mobile devices. 
 
-Welcome to my profile!
+#### Welcome to my profile!
 
 ---
 
