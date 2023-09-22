@@ -1,16 +1,16 @@
-## 👋 Hi! I'm Regina. 
+##👋 Hi! I'm Regina. 
 
-### Frontend developer from Saint-Petersburg.
+###Frontend developer from Saint-Petersburg.
 
 :sparkles: I am passionate about web development and web design.
 
 :sparkles: I love to create esthetic designed, functional and user-friendly websites and adapting them to mobile devices. 
 
-#### Welcome to my profile!
+###Welcome to my profile!
 
 ---
 
-## Languages and tools
+##Languages and tools
 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
