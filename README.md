@@ -4,7 +4,7 @@
 
 :sparkles: I am passionate about web development and web design.
 
-:sparkles: I love to create esthetic designed, functional and user-friendly websites and adapting them to mobile devices. 
+:sparkles: I love to create esthetic designed, functional and user-friendly websites, apps and adapting them to mobile devices. 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Regular&weight=100&size=16&pause=1000&color=F0F3F7&width=435&lines=Welocme+to+my+profile!)](https://git.io/typing-svg)
 
