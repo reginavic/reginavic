@@ -6,7 +6,7 @@ I'm a UX/UI Designer and studying Web Development.
 
 I like to create and develop concise, functional websites and applications, with the most convenient and aesthetic interface for both users and for solving business tasks.
 
-I am currently improving my knowledge in React.js
+Currently improving my knowledge in React.js
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Regular&weight=100&size=16&pause=1000&color=F0F3F7&random=false&width=435&lines=Link+on+my+portfolio+will+be+here+soon+)](https://git.io/typing-svg)
