@@ -1,18 +1,19 @@
-### 👋 Hello! I am glad to welcome you to my GitHub profile.
+## 👋 Hello! 
+
+
+### I am glad to welcome you to my GitHub profile.
 
 My name is Regina.
 
 I'm a Web Designer and studying Web Development.
 
-
 I like to create and develop concise, functional websites and applications, 
 with the most convenient and aesthetic interface for both users and for solving business tasks.
-
 
 Currently improving my knowledge in React.js  
 
 
-### 💻 Languages and Tools  
+## 💻 Languages and Tools     
 
 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
