@@ -6,15 +6,14 @@ I'm a Web Designer and studying Web Development.
 
 I like to create and develop concise, functional websites and applications, with the most convenient and aesthetic interface for both users and for solving business tasks.
 
-Currently improving my knowledge in React.js
+Currently improving my knowledge in React.js  
 
 
 
----
+### 💻 Languages and Tools  
 
-## Languages and Tools
 
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
   ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
