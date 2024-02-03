@@ -10,7 +10,7 @@ I'm a Web Designer and studying Web Development.
 I like to create and develop concise, functional websites and applications, 
 with the most convenient and aesthetic interface for both users and for solving business tasks.
 
-Currently improving my knowledge in React.js  
+Currently improving my knowledge in JavaScript and React.js  
 
 
 ## 💻 Languages and Tools     
