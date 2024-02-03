@@ -5,7 +5,7 @@
 
 My name is Regina.
 
-I'm a Web Designer and studying Web Development.
+I'm a UX/UI Designer and studying Frontend Development.
 
 I like to create and develop concise, functional websites and applications, 
 with the most convenient and aesthetic interface for both users and for solving business tasks.
