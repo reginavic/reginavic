@@ -7,8 +7,7 @@ My name is Regina.
 
 I'm a UX/UI Designer and studying Frontend Development.
 
-I like to create and develop concise, functional websites and applications, 
-with the most convenient and aesthetic interface for both users and for solving business tasks.
+I love the design process itself from beginning to end, full immersion in the project, analytics.
 
 Currently improving my knowledge in JavaScript and React.js  
 
