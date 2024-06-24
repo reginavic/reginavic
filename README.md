@@ -12,7 +12,7 @@ Currently improving my knowledge in JavaScript and React.js.
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&size=17&pause=1000&color=E6EDF3&random=false&width=380&height=30&lines=Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&size=17&pause=1000&color=C1C7CC&random=false&width=380&height=30&lines=Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 <br>
 
