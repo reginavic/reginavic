@@ -8,11 +8,13 @@
 
 I'm a UX/UI Designer and I am fond of Frontend Development. 
 
-Currently improving my knowledge in JavaScript and React.js. 
+I specialize in designing and building various types of websites and applications.
+
+I am constantly developing in this and related professional fields.
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&size=16&pause=1000&color=CAD5DCF0&width=380&lines=Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&size=18&pause=1000&color=CAD5DCF0&width=380&lines=Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 <br>
 
