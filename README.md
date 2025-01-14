@@ -10,7 +10,6 @@ I'm a UX/UI Designer and I am fond of Frontend Development.
 
 I specialize in designing and building various types of websites and applications.
 
-I am constantly developing in this and related professional fields.
 
 <br>
 
