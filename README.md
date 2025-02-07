@@ -6,10 +6,11 @@
 
 <br>
 
-I'm a UX/UI Designer and I am fond of Frontend Development. 
+I'm a UX/UI Designer. 
 
-I specialize in designing and building various types of websites and applications.
+I am fond of Frontend Development. 
 
+And I am constantly developing my skills in creating and designing websites and applications.
 
 <br>
 
