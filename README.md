@@ -8,9 +8,9 @@
 
 I am a UX/UI designer.
 
-Interested in learning Frontend development.
+And I like the process of developing web interfaces from start to finish. 
 
-And constantly developing and improving my skills in creating and designing websites and applications.
+Therefore, I constantly improve and deepen my knowledge and skills in creating and designing websites and applications.
 
 <br>
 
