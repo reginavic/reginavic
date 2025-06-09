@@ -8,9 +8,9 @@
 
 I am a UX/UI designer.
 
-And I like the process of developing web interfaces from start to finish. 
+I like the process of developing web interfaces from start to finish. 
 
-Therefore, I constantly improve and deepen my knowledge and skills in creating and designing websites and applications.
+And understanding Frontend development helps me to develop thoughtful interfaces <br> that make interaction with the product more convenient and comfortable.
 
 <br>
 
