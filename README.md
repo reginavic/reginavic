@@ -15,7 +15,7 @@ that make interaction with the product more convenient and comfortable.
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mona+Sans&size=18&pause=1000&color=B4BEC4F0&width=435&lines=Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mona+Sans&size=18&pause=1000&color=B4BEC4F0&width=450&lines=Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 <br>
 
