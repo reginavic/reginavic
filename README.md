@@ -8,10 +8,7 @@
 
 I am a UX/UI designer.
 
-I like the process of web developing from start to finish.
-
-And studying Frontend development helps me design interfaces<br> 
-that make interaction with the product more convenient and comfortable.
+I am fascinated by the entire process of website development, <br> from analysis and prototyping to quality control of the implemented interface <br> and conducting research. <br> And understanding Frontend development helps me design interfaces <br> that make interaction with the product more convenient and comfortable.
 
 <br>
 
