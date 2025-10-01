@@ -1,4 +1,4 @@
-### 👋 Hello! I'm Regina.
+## 👋 Hello! I'm Regina.
 
 <br>
 
@@ -12,7 +12,7 @@ I'm passionate about the entire website development process from analytics, <br>
 
 
 
-### :radio_button: Languages and Tools 
+## :radio_button: Languages and Tools 
 
 
 ### Frontend Development
