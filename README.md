@@ -1,8 +1,7 @@
-## 👋 Hello! I'm Regina
-
+## 👋 Hello! 
 <br>
 
-UX/UI Designer
+My name is Regina. I am a UX/UI designer.
 
 
 I'm passionate about the entire website development process from analytics, <br> research and prototyping to quality control of the finished interface. <br> Knowledge of Frontend Development helps me create interfaces <br> that make interaction with the product more convenient and comfortable.
