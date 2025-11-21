@@ -1,7 +1,7 @@
 ### 👋 Hello! 
 <br>
 
-#### My name is Regina. I am a UX/UI designer.
+### My name is Regina. I am a UX/UI designer.
 
 
 I enjoy the entire website development process: from analytics,<br> research, prototyping and design to quality control of the finished interface.
