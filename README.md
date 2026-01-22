@@ -4,9 +4,10 @@
 ### My name is Regina. I am a UX/UI designer.
 
 
-I enjoy the entire website development process: from analytics,<br> research, prototyping and design to quality control of the finished interface.
-<br> My knowledge of front-end development helps me understand how to create interfaces <br> 
-that make interaction with the product more convenient and comfortable.
+I specialize in the design and development of websites and mobile app. <br>
+My passion for frontend development helps me understand how to create  <br>
+more user-friendly interfaces.
+
 
 <br>
 <br>
