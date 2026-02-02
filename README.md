@@ -3,10 +3,8 @@
 
 ### My name is Regina. I am a UX/UI designer.
 
-
-I specialize in the design and development of websites and mobile app. <br>
-My passion for frontend development helps me understand how to create  <br>
-more user-friendly interfaces.
+I specialize in the design and development of websites and mobile app.<br>
+In my free time, I study frontend development.
 
 
 <br>
